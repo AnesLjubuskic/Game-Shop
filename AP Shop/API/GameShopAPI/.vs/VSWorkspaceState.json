@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GameShopAPI",
+    "\\GameShopDA",
+    "\\GameShopDA\\Repository",
+    "\\GameShopDA\\Repository\\GameRepository"
+  ],
+  "SelectedNode": "\\GameShopAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
